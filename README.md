@@ -1,2 +1,2 @@
 # Quiz
-A simple quiz game.
+A simple quiz game without & with methods.
